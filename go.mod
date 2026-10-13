@@ -1,4 +1,4 @@
-module github.com/david/wsl-lan-bridge
+module github.com/DaviJP7/wsl-lan-bridge
 
 go 1.22
 

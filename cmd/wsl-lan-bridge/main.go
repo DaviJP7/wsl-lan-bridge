@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	"github.com/david/wsl-lan-bridge/internal/app"
+	"github.com/DaviJP7/wsl-lan-bridge/internal/app"
 )
 
 func main() {

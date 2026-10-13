@@ -7,10 +7,10 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/david/wsl-lan-bridge/internal/config"
-	"github.com/david/wsl-lan-bridge/internal/netwin"
-	"github.com/david/wsl-lan-bridge/internal/wizard"
-	"github.com/david/wsl-lan-bridge/internal/wsl"
+	"github.com/DaviJP7/wsl-lan-bridge/internal/config"
+	"github.com/DaviJP7/wsl-lan-bridge/internal/netwin"
+	"github.com/DaviJP7/wsl-lan-bridge/internal/wizard"
+	"github.com/DaviJP7/wsl-lan-bridge/internal/wsl"
 )
 
 func Run(args []string) int {

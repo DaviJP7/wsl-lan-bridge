@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/david/wsl-lan-bridge/internal/config"
+	"github.com/DaviJP7/wsl-lan-bridge/internal/config"
 )
 
 // ApplyParams describes a bridge configuration to apply.
