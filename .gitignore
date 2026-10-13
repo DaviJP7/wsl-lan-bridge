@@ -1,0 +1,7 @@
+/wsl-lan-bridge
+/wsl-lan-bridge.exe
+*.exe
+dist/
+.idea/
+.vscode/
+*.test
